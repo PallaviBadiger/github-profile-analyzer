@@ -214,3 +214,10 @@ GET /api/profiles/torvalds
 | company | User's company |
 
 ---
+## Live API
+
+Base URL: https://github-profile-analyzer-production-ba37.up.railway.app
+
+- GET /api/analyze/:username
+- GET /api/profiles
+- GET /api/profiles/:username
